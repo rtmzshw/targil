@@ -1,5 +1,4 @@
-if you want to run via docker only:
-##
+if you want to run via docker only:\
 docker build -t my-app .
 ##
 docker pull mongodb/mongodb-community-server
